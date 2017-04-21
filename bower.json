@@ -1,0 +1,14 @@
+{
+  "name": "todolist",
+  "description": "Bu bir todolist uygulamasıdır",
+  "main": "gruntfile.js",
+  "authors": [
+    "Cengizhan Uğur"
+  ],
+  "license": "ISC",
+  "homepage": "web/index.html",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}

@@ -1,0 +1,28 @@
+/*
+
+ Author: Cengizhan Uğur,
+ Name: To Do List
+
+*/
+
+
+@import "../../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "input";
+@import "button";
+@import "list";
+
+.toDoListWrapper {
+
+  min-height: 500px;
+  margin-top: 35px;
+
+  .toDoList-addlist {
+
+
+  }
+
+  .toDoList-screen {
+
+    background-color: #eee;
+  }
+}
