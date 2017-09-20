@@ -1,13 +1,12 @@
-# To Do List
-Bu bir todolist programıdır :D
+# To Do List Aplication
 
-## Kullanılanlar
+## Used
 
  - Grunt
  - Bower
  - Browserify
 
-## Projeyi çalıştırmak için
+## Run Project
 ```sh
 $ npm i
 $ bower i
